@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 /volumes
+*_test.ipynb
